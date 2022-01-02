@@ -14,6 +14,20 @@ body {
     max-width: 1440px;
     margin: 0 auto;
 }
+.nav {
+    margin: 10px; 
+    padding: 10px;
+    background: darkorange;
+}
+.nav-inline {
+    display: inline;
+    padding: 5px 5px;
+    white-space: nowrap;
+}
+.decoration-none {
+    text-decoration: none;
+    color: black;
+}
 .font-size {
     font-size: 20px;
     text-decoration: underline;
