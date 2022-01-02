@@ -21,8 +21,8 @@ function multiply(a, b){
 }
 ```
 ## Courses:
-* HTML on code-basics.com[https://ru.code-basics.com/languages/html]
-* CSS on code-basics.com[https://ru.code-basics.com/languages/css]
+* [HTML on code-basics.com](https://ru.code-basics.com/languages/html)
+* [CSS on code-basics.com](https://ru.code-basics.com/languages/css)
 ## Education:
 State Polytechnical University, master’s degree
 ## Languages:
