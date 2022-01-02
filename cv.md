@@ -23,6 +23,8 @@ function multiply(a, b){
 ## Courses:
 * [HTML on code-basics.com](https://ru.code-basics.com/languages/html)
 * [CSS on code-basics.com](https://ru.code-basics.com/languages/css)
+## Projects
+* [Curriculum vitae](https://dab10.github.io/rsschool-cv/)
 ## Education:
 State Polytechnical University, master’s degree
 ## Languages:
