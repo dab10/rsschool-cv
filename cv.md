@@ -1,9 +1,10 @@
 # Bazhenov Denis
 ## Junior Frontend Developer
 ## Contact information:
-* E-mail: dab10@list.ru
-* Telegram: dab1000
-* [GitHub: dab10](https://github.com/dab10)
+* E-mail: [dab10@list.ru](mailto:dab10@list.ru)
+* Telegram: [dab1000](http://t.me/dab1000)
+* GitHub: [dab10](https://github.com/dab10)
+* Discord: Denis(@dab10)
 ## About me:
 I graduated from the State Polytechnical University in 2012. I received master’s degree. I graduated from the university with a specialty in Electrical engineering.
 I am hard-working and responsible person.
